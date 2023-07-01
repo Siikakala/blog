@@ -22,8 +22,8 @@ jobs:
     - name: Github REST API Call
       env:
         RELEASE_HUB_SECRET: ${{ secrets.RELEASE_HUB_SECRET }}
-        PARENT_REPO: <my_organization/my-app>
-        PARENT_BRANCH: develop
+        PARENT_REPO: Siikakala/siikakala.github.io
+        PARENT_BRANCH: master
         WORKFLOW_ID: 61886921
       run: |
         curl -fL --retry 3 -X POST -H "Accept: application/vnd.github.v3+json" -H "Authorization: token ${{ env.RELEASE_HUB_SECRET }}" https://api.github.com/repos/${{ env.PARENT_REPO }}/actions/workflows/${{ env.WORKFLOW_ID }}/dispatches -d '{"ref":"${{ env.PARENT_BRANCH }}"}'
