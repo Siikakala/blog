@@ -3,7 +3,7 @@ blog:
     url: blog/first-blog-post
     desc: First test
     long_desc: This is just a testing entry for blogging purposes
-    highlight: Placeholder
+    highlight: WIP
     language: en
     tags: [Daily life, testing]
     nsfw: no
