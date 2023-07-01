@@ -1,0 +1,4 @@
+author: Mira Ojamo
+exclude:
+  - "README.md"
+  - "_posts/template.md"

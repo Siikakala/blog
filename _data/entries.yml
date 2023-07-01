@@ -1,0 +1,9 @@
+blog:
+  - title: Placeholder
+    url: blog/placeholder
+    desc: Placeholder
+    long_desc: This is just a placeholder entry for testing purposes
+    highlight: Placeholder
+    language: en
+    tags: [Daily life, testing]
+    nsfw: no
