@@ -3,6 +3,7 @@ title: First!!!!
 author: Mira Ojamo
 tags: [Daily life]
 cw: [Rambling]
+language: en
 ---
 This is mostly just for testing purposes - for now.
 
