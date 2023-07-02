@@ -3,7 +3,7 @@ blog:
     url: blog/first-blog-post
     desc: First proper post
     long_desc: This is first proper, non-fanfic blog post,
-    highlight: New ✨
+    highlight: new
     language: en
     tags: [Daily life, Blog update]
     nsfw: no
