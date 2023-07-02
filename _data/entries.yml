@@ -1,9 +1,9 @@
 blog:
-  - title: First!!!!
+  - title: First!!!!1
     url: blog/first-blog-post
-    desc: First test
-    long_desc: This is just a testing entry for blogging purposes
-    highlight: WIP
+    desc: First proper post
+    long_desc: This is first proper, non-fanfic blog post,
+    highlight: New ✨
     language: en
-    tags: [Daily life, testing]
+    tags: [Daily life, Blog update]
     nsfw: no
