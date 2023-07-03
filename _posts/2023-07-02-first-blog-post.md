@@ -4,7 +4,10 @@ author: Mira Ojamo
 tags: [Daily life, Blog update]
 cw: [Tech babble, mental health]
 language: en
+locale: en-US
+description: New category, yay! Some babbling about life currently and tech babble about this blog :3
 ---
+
 New category,  yay!
 
 So, I configured automatic update of this blog when I write new post - it is run on Github pages, deployed by Github actions and the different categories are
