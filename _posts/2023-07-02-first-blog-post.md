@@ -26,7 +26,7 @@ with that was that it took from my physical coping and gave to mental. And that 
 
 But, I'm in better shape now, I'm actually able to do things I want and love, they are passion projects after all. One of the huge positive things was Vectorama,
 that bunch of people are so precious to me 💜. The vast majority of the organizers are neurodivergent - me included, so it feels like home. I can goof around
-and don't have to think so much about the social norms. It's so relazing. I'm actually travelling home from Oulu while writing this as the LAN party was three
+and don't have to think so much about the social norms. It's so relaxing. I'm actually travelling home from Oulu while writing this as the LAN party was three
 weeks ago and now was the funeral parties of that. I wish I could see them more often.
 
 There's many other friends in Tampere and Helsinki I also would like to meet again - I'm super wary of asking anything from others, so if the friends won't
