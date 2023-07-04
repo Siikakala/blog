@@ -7,8 +7,8 @@ language: en
 locale: en-US
 description: New category, yay! Some babbling about life currently and tech babble about this blog :3
 ---
-
-New category,  yay!
+<br />
+New category, yay!
 
 So, I configured automatic update of this blog when I write new post - it is run on Github pages, deployed by Github actions and the different categories are
 their own repositories, which are included as submodules and necessary files for Jekyll symlinked to correct places. So - as the actual posts are in their own
