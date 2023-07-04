@@ -22,7 +22,7 @@ I have been extremely busy lately and that has made a dent to my mental health. 
 which is causing issues at work as even while we have flexible work hours, working around the same time as everyone else is strongly adviced. And I have TTRPG
 campaings to attend to so I haven't been able to stretch the worksdays from the other end. And that has caused it's own share of stress 😅. The games haven't
 been as fun either and relaxing has been hard. I have tried too hard basically as there also was our theatre play which took a lot but gave even more. Problem
-with that was that it took from my physical coping and geve to mental. And that ain't sustainable!
+with that was that it took from my physical coping and gave to mental. And that ain't sustainable!
 
 But, I'm in better shape now, I'm actually able to do things I want and love, they are passion projects after all. One of the huge positive things was Vectorama,
 that bunch of people are so precious to me 💜. The vast majority of the organizers are neurodivergent - me included, so it feels like home. I can goof around
