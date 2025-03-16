@@ -2,7 +2,14 @@ blog:
   - title: First!!!!1
     url: blog/first-blog-post
     desc: First proper post
-    long_desc: This is first proper, non-fanfic blog post,
+    long_desc: This is first proper, non-fanfic blog post.
+    language: en
+    tags: [Daily life, Blog update]
+    nsfw: no
+  - title: Long time, no see
+    url: blog/long-time-no-see
+    desc: Life update
+    long_desc: Hadn't write in a while so wrote a life update.
     highlight: New
     language: en
     tags: [Daily life, Blog update]
